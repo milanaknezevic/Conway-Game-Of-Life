@@ -1,0 +1,8 @@
+﻿  Host.cpp
+C:\Users\Korisnik\source\repos\OPOS\lab3_ConwayGameOfLife\Host.cpp(100,10): warning C4101: 'numOfPlatforms': unreferenced local variable
+C:\Users\Korisnik\source\repos\OPOS\lab3_ConwayGameOfLife\Host.cpp(194,10): warning C4101: 'numOfPlatforms': unreferenced local variable
+C:\Users\Korisnik\source\repos\OPOS\lab3_ConwayGameOfLife\Host.cpp(282,10): warning C4101: 'numOfPlatforms': unreferenced local variable
+C:\Users\Korisnik\source\repos\OPOS\lab3_ConwayGameOfLife\Host.cpp(380,10): warning C4101: 'numOfPlatforms': unreferenced local variable
+C:\Users\Korisnik\source\repos\OPOS\lab3_ConwayGameOfLife\Host.cpp(539,96): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\Korisnik\source\repos\OPOS\lab3_ConwayGameOfLife\Host.cpp(489,10): warning C4101: 'numOfPlatforms': unreferenced local variable
+  lab3_ConwayGameOfLife.vcxproj -> C:\Users\Korisnik\source\repos\OPOS\x64\Debug\lab3_ConwayGameOfLife.exe
