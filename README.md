@@ -12,11 +12,7 @@ Every cell interacts with its eight neighbours, which are the cells that are hor
 At each step in time, the following transitions occur:
 
 
--Any live cell with fewer than two live neighbours dies, as if by underpopulation.
--Any live cell with two or three live neighbours lives on to the next generation.
--Any live cell with more than three live neighbours dies, as if by overpopulation.
--Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
-A live cell dies if it has fewer than two live neighbors.
-A live cell with two or three live neighbors lives on to the next generation.
-A live cell with more than three live neighbors dies.
-A dead cell will be brought back to live if it has exactly three live neighbors.
+    Any live cell with fewer than two live neighbours dies, as if by underpopulation.
+    Any live cell with two or three live neighbours lives on to the next generation.
+    Any live cell with more than three live neighbours dies, as if by overpopulation.
+    Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
